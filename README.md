@@ -1,3 +1,8 @@
+📄 CVision – AI Resume Parser & JD Matcher
+
+CVision is an AI-powered Resume Parser and Job Description (JD) comparison tool built with Streamlit, LangChain, and Google Gemini (1.5 Flash).
+It extracts structured resume data and evaluates skill alignment with a job description.
+
 🚀 Features
 📂 Supports PDF, DOCX, TXT
 
@@ -56,6 +61,3 @@ Deployment to Streamlit Cloud
 
 ~ Harshit Pandey
 
-If you want, I can also give you a GitHub-ready professional version with badges and screenshots (better for placements).
-
-Is this conversation helpful so far?
